@@ -5,7 +5,7 @@ We also provide OSS for many other components from the [OSS-EC site](https://oss
 
 # [Datasheet](https://product.tdk.com/system/files/dam/doc/product/sensor/sensor/humidity/catalog/sensor_humidity_chs_en.pdf)
 
-# [component software specifications](https://oss-ec.com/wp-content/uploads/2022/10/Spec-CHS-MSS.pdf)
+# [component software specifications](https://oss-ec.com/wp-content/uploads/2022/11/Spec-CHS-MSS.pdf)
 
 # BSL-00000057 Features
 - Component type         ADC component
